@@ -5,11 +5,13 @@ public class Constant1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//상수와 값(LITERAL)
-				final int MAX_POINT = 100;
+				
+		final int MAX_POINT = 100;
 				final int MIN_POINT = 0;
 				final double PI = 3.141592;
 				final String MY_NAME = "김기태";
 			// MY_NAME = "강기태"; 상수는 값이 변형되지 않기 때문에 오류로 뜬다.
+				
 				//위와 같이 FINAL 지시자가 선언되고, 대문자로 표기된 것을 상수라고 하며,
 				//항상 값이 같아 더 이상 변할 수 없는 값을 뜻함.
 				//변수나 상수에 대입되는 값을 리터럴(LITERAL)이라고 함.
