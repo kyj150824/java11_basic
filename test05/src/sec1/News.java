@@ -50,7 +50,5 @@ public class News {
 		return "News [bno=" + bno + ", title=" + title + ", uname=" + uname + ", content=" + content + ", resdate="
 				+ resdate + ", visited=" + visited + "]";
 	}
-	
-	
 		
 }

@@ -90,7 +90,7 @@ public class Board {
 	
 	@Override
 	public String toString() {
-		return "Borard [bno=" + bno + ", title=" + title + ", uname=" + uname + ", content=" + content + ", resdate="
+		return "Board [bno=" + bno + ", title=" + title + ", uname=" + uname + ", content=" + content + ", resdate="
 				+ resdate+ ", visited=" + visited + "]";
 	}
 	
