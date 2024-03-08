@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;ord.kh.java.hello&apos; to &apos;Hello&apos;&#x0D;&#x0A;- Original project: &apos;test01&apos;&#x0D;&#x0A;- Original element: &apos;ord.kh.java.hello&apos;&#x0D;&#x0A;- Renamed element: &apos;ord.kh.java.Hello&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;hello&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ord.kh.java{hello.java[hello" matchStrategy="1" name="Hello" qualified="false" references="true" similarDeclarations="false" stamp="1708313418484" textual="false" version="1.0"/>
-</session>
